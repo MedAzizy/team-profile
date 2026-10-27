@@ -8,7 +8,8 @@ We are a team of developers learning Git and GitHub.
 
 - Member 1: Hassen Bennaceur
 - Member 2: Mohamed Aziz Mnasri
-- Member 3: Mohamed Tajouri
+- Member 3: Nour
+- Member 4: Mohamed Tajouri
 
 ## Our Skills
 
