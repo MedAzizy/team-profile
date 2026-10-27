@@ -9,7 +9,7 @@ We are a team of developers learning Git and GitHub.
 
 - Member 1: Hassen Bennaceur
 - Member 2: Mohamed Aziz Mnasri
-- Member 5: Sidy Bouya
+- Member 6: Sidy Bouya
 
 ## Our Skills
 
